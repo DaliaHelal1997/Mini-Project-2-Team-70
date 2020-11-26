@@ -1,0 +1,7 @@
+Team 70 task distribution:
+
+Rawda:
+2 models
+1 transition (jumping -> dying)
+UI + soundtrack
+Effect
