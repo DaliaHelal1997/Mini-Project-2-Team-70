@@ -1,7 +1,6 @@
 Team 70 task distribution:
 
-Rawda:
+Dalia:
 2 models
-1 transition (jumping -> dying)
-UI + soundtrack
-Effect
+1 transition (jumping -> dancing)
+Transparent texture (windows)
